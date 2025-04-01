@@ -12,3 +12,5 @@ yarn-error.log*
 
 #files
 .env
+.DS_Store
+package-lock.json
